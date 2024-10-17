@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-GB",
-    baseUrl: "8bitsensei.github.io",
+    baseUrl: "8bitsensei.github.io/quartz-test",
     ignorePatterns: ["private", "_templates", ".obsidian", "_inbox"],
     defaultDateType: "created",
     theme: {
