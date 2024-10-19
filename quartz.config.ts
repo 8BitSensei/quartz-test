@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-GB",
     baseUrl: "8bitsensei.github.io/quartz-test",
-    ignorePatterns: ["private", "_templates", ".obsidian", "_inbox"],
+    ignorePatterns: ["_private", "_templates", ".obsidian", "_inbox", "_attachments"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

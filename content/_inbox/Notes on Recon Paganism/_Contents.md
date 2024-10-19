@@ -1,0 +1,7 @@
+## [[1. Self assesment and history]]
+## [[2. Academic study of the direct sources]]
+## [[3. Expanded theory and gap filling]]
+## [[4. Relationship to later sources and traditions]]
+## [[5. Integration to modern customs and culture]]
+## [[6. Natural theology and new knowledge]]
+## [[7. Bibliography]]

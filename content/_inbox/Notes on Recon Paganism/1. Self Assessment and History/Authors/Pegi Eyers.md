@@ -1,0 +1,1 @@
+> We are also indebted to the first visionaries who emphasized the cultural cohesiveness of Celtic traditions in the early days of Neo-Paganism, leading to the newly-named Celtic Reconstruction (CR) movement and its full manifestation by 1990.
