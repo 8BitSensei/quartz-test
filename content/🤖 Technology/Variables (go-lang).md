@@ -1,7 +1,10 @@
-2023-03-20
-#programming #go-lang 
-
-
+---
+date: 2023-03-20
+draft: false
+tags:
+  - programming
+  - go-lang
+---
 #### Basic valid declarations
 
 Initialises to default value (`0`)

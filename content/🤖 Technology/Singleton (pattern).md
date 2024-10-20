@@ -1,6 +1,11 @@
-2023-03-16
- #CompSci #DesignPattern #creational-pattern 
-
+---
+date: 2023-03-16
+draft: false
+tags:
+  - CompSci
+  - DesignPattern
+  - creational-pattern
+---
 *Allows us to ensure that a class only ever has a single instance with a global access point.*
 
 There are instances where we want to ensure that only one instance of a class exists at a time, for example controlling access to a shared resource, e.g. a database or a file. We would also like that instance to be accessible from anywhere, but protected from being overwritten by whomever is accessing it.

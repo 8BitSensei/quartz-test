@@ -1,6 +1,9 @@
-2023-08-09
-Tags: #containerisation 
-
+---
+date: 2023-08-09
+draft: false
+tags:
+  - containerisation
+---
 - Build a dockerfile based on a windows image that has powershell, in my most recent test I used `stefanscherer/openssh-windows:latest`, this is based off of `mcr.microsoft.com/windows/servercore:ltsc2019-amd64` which works, so does `ltsc2022-amd64`, so does `ltsc2022` . This does not work in the nanoserver even after installing powershell, the remote tools setup fails, and if you manually add the debugger, nothing happens.
 - Expose the port you will use to connect to the debugger. There are many ports that the debugger might be using, I need to test which ones are needed and which ones aren't.
 - Run the image exposing the port `-p 4020:4020/tcp` and inside it follow the next steps (it seems to work without doing this!)

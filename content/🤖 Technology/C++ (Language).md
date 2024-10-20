@@ -1,6 +1,10 @@
-2023-02-16
-#technology #programming 
-
+---
+date: 2023-02-16
+draft: false
+tags:
+  - technology
+  - programming
+---
 ## Introduction
 #### History
 
@@ -43,12 +47,12 @@ Some game programming environments do not use the STL, or at least minimise its 
 
 The main tool is of course the compiler. There are several options these days, which are:
 
-| Compiler | Cost | Open Source | Platforms |
-| --- | --- | --- | --- |
-| Microsoft Visual Studio | Free and Paid | No | Windows |
-| GCC (GNU Compiler Collection) | Free | Yes | Windows, macOS, Linux |
-| Clang | Free | Yes | Windows, macOS, Linux |
-| Intel C++ | Free | No | Windows, macOS, Linux |
+| Compiler                      | Cost          | Open Source | Platforms             |
+| ----------------------------- | ------------- | ----------- | --------------------- |
+| Microsoft Visual Studio       | Free and Paid | No          | Windows               |
+| GCC (GNU Compiler Collection) | Free          | Yes         | Windows, macOS, Linux |
+| Clang                         | Free          | Yes         | Windows, macOS, Linux |
+| Intel C++                     | Free          | No          | Windows, macOS, Linux |
 
 There are also many IDEs available with the usual combination of features: a text editor, compiler execution, interactive debugger, etc. Here are some popular options:
 

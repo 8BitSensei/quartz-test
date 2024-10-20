@@ -1,7 +1,12 @@
-2023-03-16
-#CompSci #DesignPattern #creational-pattern
-
-*Allows us to step by step create different complex objects, using the same construction code.*
+---
+date: 2023-03-16
+draft: false
+tags:
+  - CompSci
+  - DesignPattern
+  - creational-pattern
+---
+Allows us to step by step create different complex objects, using the same construction code.
 
 This pattern is used in scenarios where we may want to produce many complex variants of a single type of object, for example, we may begin with an object `House`, but later need a house with more floors, a garage, a garden, a pool, detached, semi-detached etc. Rather than creating many subclasses of the object `House`, or creating a constructor with a monstrous number of options, we can implement a Builder.
 

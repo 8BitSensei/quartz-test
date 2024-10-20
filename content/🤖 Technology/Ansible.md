@@ -1,6 +1,10 @@
-2023-02-21
-#technology #automation
-
+---
+date: 2023-02-21
+draft: false
+tags:
+  - technology
+  - automation
+---
 Ansible is an open source command-line tool written in [[Python]] to automate the installation and configuration of software on remote machines through an [[SSH]] connection. [^1][^3] Because Ansible uses SSH, it is a very lightweight and secure solution, and has no need for an Ansible agent or client service. [^3]
 The connection details to the target machine(s) are all stored in a file called the **inventory** [^3], and Ansible can be run against the target machine(s) either using the command line, or for more complex tasks, a script called the Playbook.
 

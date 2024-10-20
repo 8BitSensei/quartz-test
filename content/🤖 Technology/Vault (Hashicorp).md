@@ -1,6 +1,10 @@
-2023-02-15
- #technology #security 
-
+---
+date: 2023-02-15
+draft: false
+tags:
+  - technology
+  - security
+---
 HashiCorp Vault is **a secrets management tool specifically designed to control access to sensitive credentials in a low-trust environment**.
 
 Secrets are defined as any form of sensitive credentials that need to be tightly controlled and monitored and can be used to unlock sensitive information. Secrets could be in the form of passwords, API keys, SSH keys, RSA tokens, or OTP.

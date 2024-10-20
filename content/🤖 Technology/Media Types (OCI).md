@@ -1,6 +1,10 @@
-2023-02-28
-#technology #containerisation 
-
+---
+date: 2023-02-28
+draft: false
+tags:
+  - technology
+  - containerisation
+---
 The `mediaType` property in OCI specifications describes the type of file or element that is being described. This allows software processing that file or element to process it correctly according to the OCI specifications.
 
 The following media types are described in the OCI specifications:

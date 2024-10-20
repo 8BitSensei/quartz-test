@@ -1,6 +1,8 @@
-2023-03-02
-#programming #go-lang
-
+---
+date: 2023-03-02
+draft: false
+tags:
+---
 Very simple go-lang based build tool. Once installed, all you need to do is describe your build tasks in a YAML file called `Taskfile.yml`, you can then call your tasks from the terminal with the `task` command.
 
 ```YAML

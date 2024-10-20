@@ -1,6 +1,10 @@
-2023-07-18
-Tags: #technology #networking 
-
+---
+date: 2023-07-18
+draft: false
+tags:
+  - technology
+  - networking
+---
 Works as an alternative to a users ISP by routing a devices internet connection through a private service.
 
 Creates a private, encrypted tunnel through which a user's device can access the internet while hiding personal information.

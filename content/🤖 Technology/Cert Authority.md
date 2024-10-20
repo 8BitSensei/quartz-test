@@ -1,6 +1,10 @@
-2023-02-15
-#technology #security
-
+---
+date: 2023-02-15
+draft: false
+tags:
+  - technology
+  - security
+---
 A trusted entity that *issues [[SSL certificates]]*. 
 These certificates are cryptographically link an entity with a *public key*. 
 Also encrypts communications over the internet and maintains integrity of documents signed with it.

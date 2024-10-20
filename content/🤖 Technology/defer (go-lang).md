@@ -1,6 +1,10 @@
-2023-03-20
-#programming #go-lang 
-
+---
+date: 2023-03-20
+draft: false
+tags:
+  - programming
+  - go-lang
+---
 `defer` is a keyword in Go that tells the compiler to *defer* the execution of a command, that is, the compiler won't run that command until the rest of the current function has finished executing
 ```go
 package main

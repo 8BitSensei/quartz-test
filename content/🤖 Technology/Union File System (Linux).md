@@ -1,6 +1,8 @@
-2023-02-27
-#technology #linux
-
+---
+date: 2023-02-27
+draft: false
+tags:
+---
 The Container Image relied on a Linux construct call the Union File System (UnionFS) which allows merging file systems. There are multiple implementations of this, but, looking at the OverlayFS file system, we can see how upper and multiple lower layers of files are merged while keeping the content separate.  If a file exists in multiple layers, the upper layer overrides the lower layer(s).
 
 ##### Adding

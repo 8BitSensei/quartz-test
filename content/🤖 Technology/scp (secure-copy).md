@@ -1,6 +1,10 @@
-2023-03-15
-#technology #command-line-utility
-
+---
+date: 2023-03-15
+draft: false
+tags:
+  - technology
+  - command-line-utility
+---
 Command-line utility for securely copying files and directories between two locations in an encrypted manner.
 
 This can be used to retrieve a file from EC2 servers with the following command:

@@ -1,6 +1,10 @@
-2023-11-02
-Tags: #programming #algorithm 
-
+---
+date: 2023-11-02
+draft: false
+tags:
+  - programming
+  - algorithm
+---
 The Two Sum problem, is a problem where in we are given an array of integers, and a target integer. We must find what two integers in the array will add up to the target integer (if at all).
 
 The naïve approach to solving this problem is to:

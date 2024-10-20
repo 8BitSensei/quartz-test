@@ -1,6 +1,10 @@
-2023-02-21
- #technology #automation 
-
+---
+date: 2023-02-21
+draft: false
+tags:
+  - technology
+  - automation
+---
 Packer is an open source tool for generating identical machine images from single source configuration. Packer can create multiple machine image formats for multiple platforms, AMIs, VMXs, OVF etc. [^1]
 
 Begins with a *packerfile* which codifies all the inputs for a machine image, for example source code, configuration management, or security controls. The *packerfile* takes these and specifies how to use them to create the desired machine image. The *packerfile* is fed into the Packer service, which is able to take and execute the definitions within it to create multiple machine images for different platforms, e.g. AMI. VMWare image, Docker Container. [^2]

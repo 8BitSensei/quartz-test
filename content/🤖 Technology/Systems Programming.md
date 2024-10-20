@@ -1,6 +1,9 @@
-2023-02-16
- #programming 
-
+---
+date: 2023-02-16
+draft: false
+tags:
+  - programming
+---
 Systems programming, as opposed to application programming, aims to produce software and software platforms which provide services to other software. Because of this, systems programming is often performance constrained, low-level, and requires a great deal of hardware awareness.
 
 Examples of languages used for systems programming is [[C++ (Language)]] and [[Rust (Language)]]. 
