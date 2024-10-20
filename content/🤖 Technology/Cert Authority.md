@@ -18,7 +18,7 @@ An entity can request a digital certificate from a CA. First, it generates a key
 
 The applicant sends the CSR to the CA which verifies the information and applicants identity (how?), then generates a digital certificate, signs it with its private key, and sends the cert to the authority.
 
-![[Pasted image 20230215200027.jpg]]
+![[cert authority.jpg]]
 
 ---
 # References

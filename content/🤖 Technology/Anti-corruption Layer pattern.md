@@ -10,7 +10,7 @@ Maintains access between new and legacy systems without forcing the new system t
 
 #### Solution
 Isolate the different subsystems by placing an ant-corruption layer between them, which will translate communications between the two systems, allowing one system to remain unchanged while the other can avoid compromising its design.
-![[Pasted image 20230623143656.png]]
+![[anti-corruption.png]]
 
 
 #### Fantasy

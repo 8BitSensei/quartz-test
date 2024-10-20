@@ -14,7 +14,7 @@ Cloud applications that are resilient often need features like circuit breaking,
 #### Solution
 Put client frameworks and libraries into an external process that acts as a proxy between your application and external services. Deploy the proxy on the same host environment as your application to allow control over routing, security, and to avoid access restrictions.
 
-![[Pasted image 20230623135520.png]]
+![[ambassador.png]]
 
 
 #### Fantasy

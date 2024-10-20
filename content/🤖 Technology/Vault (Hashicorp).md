@@ -11,7 +11,7 @@ Secrets are defined as any form of sensitive credentials that need to be tightly
 
 When the Vault is initialized it generates an encryption key which is used to protect all the data. That key is protected by a master key. By default, Vault uses a technique known as [[Shamirs's secret sharing]] algorithm to split the master key into 5 shares, any 3 of which are required to reconstruct the master key.
 
-![[Pasted image 20230215200349.png]]
+![[vault.png]]
 
 Vault’s encryption layer, referred to as the _barrier_, is responsible for encrypting and decrypting Vault data.
 
