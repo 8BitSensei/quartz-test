@@ -1,1 +1,0 @@
-https://arxiv.org/abs/1702.03139#:~:text=The%20purpose%20of%20this%20note,the%20analysis%20of%20historical%20events.
